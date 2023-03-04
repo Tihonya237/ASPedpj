@@ -1,0 +1,12 @@
+D:\VSCodeProjects\RPprog\Deps\bin\Debug\net7.0\Deps.deps.json
+D:\VSCodeProjects\RPprog\Deps\bin\Debug\net7.0\Deps.dll
+D:\VSCodeProjects\RPprog\Deps\bin\Debug\net7.0\Deps.pdb
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\Deps.csproj.AssemblyReference.cache
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\Deps.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\Deps.AssemblyInfoInputs.cache
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\Deps.AssemblyInfo.cs
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\Deps.csproj.CoreCompileInputs.cache
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\Deps.dll
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\refint\Deps.dll
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\Deps.pdb
+D:\VSCodeProjects\RPprog\Deps\obj\Debug\net7.0\ref\Deps.dll
