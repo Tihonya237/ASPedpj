@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj",
+      "projectUniqueName": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj",
       "projectName": "Deps",
-      "projectPath": "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj",
+      "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj",
       "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-      "outputPath": "D:\\VSCodeProjects\\RPprog\\Deps\\obj\\",
+      "outputPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

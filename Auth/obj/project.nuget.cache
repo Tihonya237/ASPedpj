@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "heZoiIuy3vgrbIhEVigC3NUBwoY+bMYqIXHK0fhStDBxpm6I81c+HZm0jC53Khyctkp94tvT3iwo5+TUNX7fVA==",
+  "dgSpecHash": "oqYp9NAhP7tT1H30HFQw+zIitLAwy5/GBST+kDchZvJ9xgntfyu+0sgpAcUz4IAZGVVPSeveFUYjF0mTov5pyQ==",
   "success": true,
-  "projectFilePath": "D:\\VSCodeProjects\\RPprog\\Auth\\Auth.csproj",
+  "projectFilePath": "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

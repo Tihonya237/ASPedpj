@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCodeProjects\\RPprog\\Auth\\Auth.csproj": {}
+    "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj": {}
   },
   "projects": {
-    "D:\\VSCodeProjects\\RPprog\\Auth\\Auth.csproj": {
+    "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCodeProjects\\RPprog\\Auth\\Auth.csproj",
+        "projectUniqueName": "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "D:\\VSCodeProjects\\RPprog\\Auth\\Auth.csproj",
+        "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj",
         "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCodeProjects\\RPprog\\Auth\\obj\\",
+        "outputPath": "D:\\VSCodeProjects\\ASPedpj\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj": {
-                "projectPath": "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj"
+              "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj": {
+                "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj": {
+    "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj",
+        "projectUniqueName": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj",
         "projectName": "Deps",
-        "projectPath": "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj",
+        "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj",
         "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCodeProjects\\RPprog\\Deps\\obj\\",
+        "outputPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

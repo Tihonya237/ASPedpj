@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AXQQvYc6m4zDd4pdsLP0qfLh8sgThiqbm8hoYCYqekKh/w054AWOm/vp3i2k36Xn0jEFEYVMp5oiyDDMahLWbg==",
+  "dgSpecHash": "H4W0LCZfSFUXlIZ5ch41TGklvnjBeaAtSdDwQ69z46sd6IDrjTRQTj3aQswYbP4r3asr9veU6tR2nrmttm/Vkw==",
   "success": true,
-  "projectFilePath": "D:\\VSCodeProjects\\RPprog\\Main\\Main.csproj",
+  "projectFilePath": "D:\\VSCodeProjects\\ASPedpj\\Main\\Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaros\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\yaros\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.2\\microsoft.aspnetcore.cryptography.internal.7.0.2.nupkg.sha512",

@@ -1787,11 +1787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSCodeProjects\\RPprog\\Main\\Main.csproj",
+      "projectUniqueName": "D:\\VSCodeProjects\\ASPedpj\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "D:\\VSCodeProjects\\RPprog\\Main\\Main.csproj",
+      "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Main\\Main.csproj",
       "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-      "outputPath": "D:\\VSCodeProjects\\RPprog\\Main\\obj\\",
+      "outputPath": "D:\\VSCodeProjects\\ASPedpj\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1812,11 +1812,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\VSCodeProjects\\RPprog\\Auth\\Auth.csproj": {
-              "projectPath": "D:\\VSCodeProjects\\RPprog\\Auth\\Auth.csproj"
+            "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj": {
+              "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj"
             },
-            "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj": {
-              "projectPath": "D:\\VSCodeProjects\\RPprog\\Deps\\Deps.csproj"
+            "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj": {
+              "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj"
             }
           }
         }
