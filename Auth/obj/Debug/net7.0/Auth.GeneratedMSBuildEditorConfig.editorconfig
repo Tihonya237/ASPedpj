@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Auth
 build_property.RootNamespace = Auth
-build_property.ProjectDir = D:\VSCodeProjects\ASPedpj\Auth\
+build_property.ProjectDir = d:\VSCodeProjects\ForkProd\ASPedpj\Auth\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VSCodeProjects\ASPedpj\Auth
+build_property.MSBuildProjectDirectory = d:\VSCodeProjects\ForkProd\ASPedpj\Auth
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VSCodeProjects/ASPedpj/Auth/Areas/MyFeature/Pages/Page1.cshtml]
+[d:/VSCodeProjects/ForkProd/ASPedpj/Auth/Areas/MyFeature/Pages/Page1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTXlGZWF0dXJlXFBhZ2VzXFBhZ2UxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
