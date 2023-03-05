@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Auth
 build_property.RootNamespace = Auth
-build_property.ProjectDir = c:\Users\sasha\Desktop\paint\ASPedpj\Auth\
+build_property.ProjectDir = C:\Users\sasha\Desktop\paint\ASPedpj\Auth\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\sasha\Desktop\paint\ASPedpj\Auth
+build_property.MSBuildProjectDirectory = C:\Users\sasha\Desktop\paint\ASPedpj\Auth
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/sasha/Desktop/paint/ASPedpj/Auth/Areas/MyFeature/Pages/Page1.cshtml]
+[C:/Users/sasha/Desktop/paint/ASPedpj/Auth/Areas/MyFeature/Pages/Page1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTXlGZWF0dXJlXFBhZ2VzXFBhZ2UxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
