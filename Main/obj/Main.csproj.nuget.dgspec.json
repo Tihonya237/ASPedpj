@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCodeProjects\\ASPedpj\\Main\\Main.csproj": {}
+    "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Main\\Main.csproj": {}
   },
   "projects": {
-    "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj": {
+    "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj",
+        "projectUniqueName": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj",
-        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCodeProjects\\ASPedpj\\Auth\\obj\\",
+        "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj",
+        "packagesPath": "C:\\Users\\Konstantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Konstantin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj": {
-                "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj"
+              "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj": {
+                "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj"
               }
             }
           }
@@ -70,28 +64,22 @@
         }
       }
     },
-    "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj": {
+    "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj",
+        "projectUniqueName": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj",
         "projectName": "Deps",
-        "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj",
-        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\obj\\",
+        "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj",
+        "packagesPath": "C:\\Users\\Konstantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Konstantin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -129,39 +117,33 @@
         }
       }
     },
-    "D:\\VSCodeProjects\\ASPedpj\\Main\\Main.csproj": {
+    "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Main\\Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCodeProjects\\ASPedpj\\Main\\Main.csproj",
+        "projectUniqueName": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Main\\Main.csproj",
         "projectName": "Main",
-        "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Main\\Main.csproj",
-        "packagesPath": "C:\\Users\\yaros\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCodeProjects\\ASPedpj\\Main\\obj\\",
+        "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Main\\Main.csproj",
+        "packagesPath": "C:\\Users\\Konstantin\\.nuget\\packages\\",
+        "outputPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Main\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\yaros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Konstantin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj": {
-                "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Auth\\Auth.csproj"
+              "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj": {
+                "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj"
               },
-              "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj": {
-                "projectPath": "D:\\VSCodeProjects\\ASPedpj\\Deps\\Deps.csproj"
+              "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj": {
+                "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj"
               }
             }
           }
