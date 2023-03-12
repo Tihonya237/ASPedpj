@@ -46,3 +46,15 @@ C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\Deps.dll
 C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\refint\Deps.dll
 C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\Deps.pdb
 C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\ref\Deps.dll
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\bin\Debug\net7.0\Deps.deps.json
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\bin\Debug\net7.0\Deps.dll
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\bin\Debug\net7.0\Deps.pdb
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\Deps.csproj.AssemblyReference.cache
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\Deps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\Deps.AssemblyInfoInputs.cache
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\Deps.AssemblyInfo.cs
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\Deps.csproj.CoreCompileInputs.cache
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\Deps.dll
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\refint\Deps.dll
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\Deps.pdb
+C:\Users\PM95Y\Desktop\risovalka\ASPedpj\Deps\obj\Debug\net7.0\ref\Deps.dll
