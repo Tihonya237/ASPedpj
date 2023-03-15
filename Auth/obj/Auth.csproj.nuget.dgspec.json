@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj": {}
+    "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Auth\\Auth.csproj": {}
   },
   "projects": {
-    "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj": {
+    "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj",
+        "projectUniqueName": "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Auth\\Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\Auth.csproj",
-        "packagesPath": "C:\\Users\\Konstantin\\.nuget\\packages\\",
-        "outputPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Auth\\obj\\",
+        "projectPath": "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Auth\\Auth.csproj",
+        "packagesPath": "C:\\Users\\lia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Konstantin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj": {
-                "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj"
+              "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Deps\\Deps.csproj": {
+                "projectPath": "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Deps\\Deps.csproj"
               }
             }
           }
@@ -60,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj": {
+    "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Deps\\Deps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj",
+        "projectUniqueName": "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Deps\\Deps.csproj",
         "projectName": "Deps",
-        "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj",
-        "packagesPath": "C:\\Users\\Konstantin\\.nuget\\packages\\",
-        "outputPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\obj\\",
+        "projectPath": "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Deps\\Deps.csproj",
+        "packagesPath": "C:\\Users\\lia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lia\\Desktop\\git\\ASPedpj\\Deps\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Konstantin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -113,7 +113,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
