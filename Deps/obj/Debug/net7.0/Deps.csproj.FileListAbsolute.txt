@@ -46,3 +46,15 @@ C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\Deps.dll
 C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\refint\Deps.dll
 C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\Deps.pdb
 C:\Yaroslav\VSCodeProjects\ForkProd\ASPedpj\Deps\obj\Debug\net7.0\ref\Deps.dll
+E:\asp\ASPedpj\Deps\bin\Debug\net7.0\Deps.deps.json
+E:\asp\ASPedpj\Deps\bin\Debug\net7.0\Deps.dll
+E:\asp\ASPedpj\Deps\bin\Debug\net7.0\Deps.pdb
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.csproj.AssemblyReference.cache
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.AssemblyInfoInputs.cache
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.AssemblyInfo.cs
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.csproj.CoreCompileInputs.cache
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.dll
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\refint\Deps.dll
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.pdb
+E:\asp\ASPedpj\Deps\obj\Debug\net7.0\ref\Deps.dll

@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Konstantin\\.nuget\\packages\\": {}
+    "C:\\Users\\kosty\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj",
+      "projectUniqueName": "E:\\asp\\ASPedpj\\Deps\\Deps.csproj",
       "projectName": "Deps",
-      "projectPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\Deps.csproj",
-      "packagesPath": "C:\\Users\\Konstantin\\.nuget\\packages\\",
-      "outputPath": "C:\\Yaroslav\\VSCodeProjects\\ForkProd\\ASPedpj\\Deps\\obj\\",
+      "projectPath": "E:\\asp\\ASPedpj\\Deps\\Deps.csproj",
+      "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
+      "outputPath": "E:\\asp\\ASPedpj\\Deps\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Konstantin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
