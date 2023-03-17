@@ -58,3 +58,15 @@ E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.dll
 E:\asp\ASPedpj\Deps\obj\Debug\net7.0\refint\Deps.dll
 E:\asp\ASPedpj\Deps\obj\Debug\net7.0\Deps.pdb
 E:\asp\ASPedpj\Deps\obj\Debug\net7.0\ref\Deps.dll
+E:\Csharp\AspNetProject\ASPedpj\Deps\bin\Debug\net7.0\Deps.deps.json
+E:\Csharp\AspNetProject\ASPedpj\Deps\bin\Debug\net7.0\Deps.dll
+E:\Csharp\AspNetProject\ASPedpj\Deps\bin\Debug\net7.0\Deps.pdb
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\Deps.csproj.AssemblyReference.cache
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\Deps.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\Deps.AssemblyInfoInputs.cache
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\Deps.AssemblyInfo.cs
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\Deps.csproj.CoreCompileInputs.cache
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\Deps.dll
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\refint\Deps.dll
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\Deps.pdb
+E:\Csharp\AspNetProject\ASPedpj\Deps\obj\Debug\net7.0\ref\Deps.dll
