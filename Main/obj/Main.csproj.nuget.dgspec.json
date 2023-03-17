@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\asp\\ASPedpj\\Main\\Main.csproj": {}
+    "E:\\Csharp\\AspNetProject\\ASPedpj\\Main\\Main.csproj": {}
   },
   "projects": {
-    "E:\\asp\\ASPedpj\\Auth\\Auth.csproj": {
+    "E:\\Csharp\\AspNetProject\\ASPedpj\\Auth\\Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\asp\\ASPedpj\\Auth\\Auth.csproj",
+        "projectUniqueName": "E:\\Csharp\\AspNetProject\\ASPedpj\\Auth\\Auth.csproj",
         "projectName": "Auth",
-        "projectPath": "E:\\asp\\ASPedpj\\Auth\\Auth.csproj",
-        "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
-        "outputPath": "E:\\asp\\ASPedpj\\Auth\\obj\\",
+        "projectPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Auth\\Auth.csproj",
+        "packagesPath": "C:\\Users\\artor\\.nuget\\packages\\",
+        "outputPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Auth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\artor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\asp\\ASPedpj\\Deps\\Deps.csproj": {
-                "projectPath": "E:\\asp\\ASPedpj\\Deps\\Deps.csproj"
+              "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\Deps.csproj": {
+                "projectPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\Deps.csproj"
               }
             }
           }
@@ -66,24 +66,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\asp\\ASPedpj\\Deps\\Deps.csproj": {
+    "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\Deps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\asp\\ASPedpj\\Deps\\Deps.csproj",
+        "projectUniqueName": "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\Deps.csproj",
         "projectName": "Deps",
-        "projectPath": "E:\\asp\\ASPedpj\\Deps\\Deps.csproj",
-        "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
-        "outputPath": "E:\\asp\\ASPedpj\\Deps\\obj\\",
+        "projectPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\Deps.csproj",
+        "packagesPath": "C:\\Users\\artor\\.nuget\\packages\\",
+        "outputPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\artor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -125,24 +125,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\asp\\ASPedpj\\Main\\Main.csproj": {
+    "E:\\Csharp\\AspNetProject\\ASPedpj\\Main\\Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\asp\\ASPedpj\\Main\\Main.csproj",
+        "projectUniqueName": "E:\\Csharp\\AspNetProject\\ASPedpj\\Main\\Main.csproj",
         "projectName": "Main",
-        "projectPath": "E:\\asp\\ASPedpj\\Main\\Main.csproj",
-        "packagesPath": "C:\\Users\\kosty\\.nuget\\packages\\",
-        "outputPath": "E:\\asp\\ASPedpj\\Main\\obj\\",
+        "projectPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Main\\Main.csproj",
+        "packagesPath": "C:\\Users\\artor\\.nuget\\packages\\",
+        "outputPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kosty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\artor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -157,11 +157,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\asp\\ASPedpj\\Auth\\Auth.csproj": {
-                "projectPath": "E:\\asp\\ASPedpj\\Auth\\Auth.csproj"
+              "E:\\Csharp\\AspNetProject\\ASPedpj\\Auth\\Auth.csproj": {
+                "projectPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Auth\\Auth.csproj"
               },
-              "E:\\asp\\ASPedpj\\Deps\\Deps.csproj": {
-                "projectPath": "E:\\asp\\ASPedpj\\Deps\\Deps.csproj"
+              "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\Deps.csproj": {
+                "projectPath": "E:\\Csharp\\AspNetProject\\ASPedpj\\Deps\\Deps.csproj"
               }
             }
           }
@@ -216,7 +216,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
