@@ -7,12 +7,14 @@ using Microsoft.VisualBasic;
 using RazorPagesLogin.Data;
 using System.Globalization;
 using Microsoft.Extensions.Options;
+using Microsoft.AspNetCore.Identity.UI.V4.Pages.Account.Internal;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Start Localization code
 builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
+//builder.Services.AddScoped<IStringLocalizer<RegisterModel>, StringLocalizer<RegisterModel>>();
 builder.Services.Configure<RequestLocalizationOptions>(options =>
 {
     var supportedCultures = new[]
