@@ -15,10 +15,11 @@
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-page="/Index">Main</a>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <button type = "button"> dd</button>
+                    <input type = "button" value="Отправить" onclick="push()">          <!-- кнопка отправки -->
+                    <input type = "button" value="Сохранить" id="downloud">      <!-- кнопка сохранения -->
                     <input type ="range" min="1" max="20" id="Size">
                     <button onclick = "cleanCanvas()"> cleanCanvas</button>
-                    <div>   <!--div для ластика-->
+                    <div>                                                               <!--div для ластика-->
                         <input type="checkbox" id="erase_check" onchange="erase()">
                         <label for="scales">Ластик</label>
                     </div>
