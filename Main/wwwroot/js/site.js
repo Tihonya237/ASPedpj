@@ -10,6 +10,19 @@ ctx.lineJoin = "round"
 var headerHeight = document.querySelector('header').offsetHeight;
 var isDrawing = false;
 
+// ластик имеет толщину линии выбранную на слайдере 
+// вкл - ластик активен; выкл - ластик неактивен
+function erase() {  
+    var chbox;
+    chbox=document.getElementById('erase_check');
+        if (chbox.checked) {
+            ctx.globalCompositeOperation = "destination-out"
+        }
+        else {
+            ctx.globalCompositeOperation = "source-over"
+        }
+    }
+
 document.getElementById('color').oninput = function()
 {
     myColor = this.value;
@@ -20,23 +33,23 @@ document.getElementById('Size').oninput = function()
     lineSize = this.value;
 }
 
-canvas.addEventListener("mousedown", function (event) {
+canvas.addEventListener("pointerdown", function (event) {
     isDrawing = true;
     ctx.beginPath();
     //ctx.arc(event.clientX, event.clientY - headerHeight, 1, 0, 1 * Math.PI);
-    ctx.moveTo(event.clientX, event.clientY - headerHeight);
+    ctx.moveTo(event.clientX, event.clientY - headerHeight -15);
     ctx.lineWidth = lineSize;
 });
 
-canvas.addEventListener("mousemove", function (event) {
+canvas.addEventListener("pointermove", function (event) {
     if (isDrawing) {
-        ctx.lineTo(event.clientX, event.clientY - headerHeight);
+        ctx.lineTo(event.clientX, event.clientY - headerHeight -15);
         ctx.stroke();
         ctx.strokeStyle = myColor;
            ctx.fillStyle = myColor;
     }
 });
 
-canvas.addEventListener("mouseup", function (event) {
+canvas.addEventListener("pointerup", function (event) {
     isDrawing = false;
 });
