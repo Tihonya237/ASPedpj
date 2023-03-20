@@ -33,6 +33,11 @@ document.getElementById('Size').oninput = function()
     lineSize = this.value;
 }
 
+function cleanCanvas() 
+ {
+     ctx.clearRect(0, 0, canvas.width, canvas.height);
+ }
+
 canvas.addEventListener("pointerdown", function (event) {
     isDrawing = true;
     ctx.beginPath();
