@@ -20,8 +20,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Auth\RazorPagesLogin.csproj" />
     <ProjectReference Include="..\Deps\Deps.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="RazorPagesLogin">
+      <HintPath>RazorPagesLogin.dll</HintPath>
+    </Reference>
+    <Reference Include="RazorPagesLogin.resources">
+      <HintPath>ru\RazorPagesLogin.resources.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
